@@ -1,6 +1,6 @@
 var dataUrl = [
   
-  'https://conversisave.blogspot.com/2022/02/blog-post.html'
+  'https://pilihpilihanmu22.blogspot.com/2023/12/pilih-pilihanmu_28.html'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
