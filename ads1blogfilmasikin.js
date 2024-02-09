@@ -1,14 +1,14 @@
 var dataUrl = [
   
-  'https://filmasikin.blogspot.com/2023/06/video-1.html',
+  'https://google.com',
 
-  'https://filmasikin.blogspot.com/2023/06/video-2.html',
+  'https://google.com',
 
-  'https://filmasikin.blogspot.com/2023/06/video-3.html',
+  'https://google.com',
 
-  'https://filmasikin.blogspot.com/2023/06/video-4.html',
+  'https://google.com',
 
-  'https://filmasikin.blogspot.com/2023/06/video-5.html'
+  'https://google.com'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
