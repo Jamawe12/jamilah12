@@ -1,12 +1,12 @@
 var dataUrl = [
   
-  'https://livebolafriendlyindo6.blogspot.com/2024/01/live-streaming-indonesia-vs-libya_5.html',
+  'https://blogvideokuu.blogspot.com',
 
-  'https://livebolafriendlyindo6.blogspot.com/2024/01/live-streaming-indonesia-vs-libya.html',
+  'https://blogvideokuu.blogspot.com',
 
-  'https://livebolafriendlyindo6.blogspot.com/2024/01/live-streaming-indonesia-vs-libya_5.html',
+  'https://blogvideokuu.blogspot.com',
 
-  'https://livebolafriendlyindo6.blogspot.com/2024/01/live-streaming-indonesia-vs-libya.html'
+  'https://blogvideokuu.blogspot.com'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
