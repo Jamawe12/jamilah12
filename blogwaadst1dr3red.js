@@ -4,7 +4,6 @@ var dataUrl = [
   'https://chattgrupwhatsappp.blogspot.com/2025/03/grupp-4.html',
   'https://chattgrupwhatsappp.blogspot.com/2025/03/grupp-3.html',
   'https://chattgrupwhatsappp.blogspot.com/2025/03/grupp-2.html',
-  'https://chattgrupwhatsappp.blogspot.com/2025/03/grupp-1.html',
   'https://chattgrupwhatsappp.blogspot.com/2024/06/grup-10.html',
   'https://chattgrupwhatsappp.blogspot.com/2024/06/grup-6.html',
   'https://chattgrupwhatsappp.blogspot.com/2024/06/grup-3.html',
