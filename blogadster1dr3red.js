@@ -9,7 +9,6 @@ var dataUrl = [
   "https://chattwhatsapvideo.blogspot.com/2025/06/gruup-10.html",
   "https://chattwhatsapvideo.blogspot.com/2025/06/gruup-8.html",
   "https://chattwhatsapvideo.blogspot.com/2025/06/gruup-7.html",
-  "https://chattwhatsapvideo.blogspot.com/2025/06/gruup-5.html",
   "https://chattwhatsapvideo.blogspot.com/2025/06/gruup-3.html",
   "https://chattwhatsapvideo.blogspot.com/2025/06/gruup-1.html",
   "https://chattwhatsapvideo.blogspot.com/2025/03/grup-10.html",
