@@ -12,7 +12,6 @@ var dataUrl = [
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-6.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-5.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-4.html',
-'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-3.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-2.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-1.html',
 'https://chattwhatsapvideo.blogspot.com/2025/06/gruup-10.html',
