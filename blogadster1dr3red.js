@@ -5,7 +5,6 @@ var dataUrl = [
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-13.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-12.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-11.html',
-'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-10.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-9.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-8.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-7.html',
