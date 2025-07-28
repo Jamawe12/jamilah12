@@ -21,9 +21,8 @@ var dataUrl = [
 'https://chattwhatsapvideo.blogspot.com/2025/05/grupp-5.html',
 'https://chattwhatsapvideo.blogspot.com/2025/05/grupp-3.html',
 'https://chattwhatsapvideo.blogspot.com/2025/03/grup-8.html',
-'https://chattwhatsapvideo.blogspot.com/2025/03/grup-5.html',
-'https://chattwhatsapvideo.blogspot.com/2025/03/grup-3.html'
-
+'https://chattwhatsapvideo.blogspot.com/2025/03/grup-5.html'
+  
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
