@@ -19,7 +19,7 @@ var dataUrl = [
 'https://www.videyw.my.id/2025/08/play-4.html',
 'https://www.videyw.my.id/2025/08/play-3.html',
 'https://www.videyw.my.id/2025/08/play-2.html',
-'https://www.videyw.my.id/2025/08/play-1.html',
+'https://www.videyw.my.id/2025/08/play-1.html'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
