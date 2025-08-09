@@ -5,7 +5,6 @@ var dataUrl = [
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-13.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-12.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-11.html',
-'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-9.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-8.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-7.html',
 'https://chattwhatsapvideo.blogspot.com/2025/07/play-video-6.html',
@@ -19,7 +18,6 @@ var dataUrl = [
 'https://chattwhatsapvideo.blogspot.com/2025/05/grupp-6.html',
 'https://chattwhatsapvideo.blogspot.com/2025/05/grupp-5.html',
 'https://chattwhatsapvideo.blogspot.com/2025/05/grupp-3.html',
-'https://chattwhatsapvideo.blogspot.com/2025/03/grup-8.html',
 'https://chattwhatsapvideo.blogspot.com/2025/03/grup-5.html'
   
 ];
