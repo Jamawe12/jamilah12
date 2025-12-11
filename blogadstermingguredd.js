@@ -49,7 +49,6 @@ var dataUrl = [
 'https://videohdddfull.blogspot.com/2025/10/play-video-5.html',
 'https://videohdddfull.blogspot.com/2025/10/play-video-4.html',
 'https://videohdddfull.blogspot.com/2025/10/play-video-3.html',
-'https://videohdddfull.blogspot.com/2025/10/play-video-2.html',
 'https://videohdddfull.blogspot.com/2025/10/play-video-1.html'
 
 ];
