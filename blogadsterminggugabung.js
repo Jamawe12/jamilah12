@@ -15,7 +15,6 @@ var dataUrl = [
 'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-24.html',
 'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-23.html',
 'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-22.html',
-'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-21.html',
 'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-20.html',
 'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-19.html',
 'https://kumpulanvideoofull.blogspot.com/2025/10/play-video-18.html',
