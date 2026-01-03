@@ -31,7 +31,6 @@ var dataUrl = [
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-13.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-12.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-11.html',
-'https://videohdddfull.blogspot.com/2025/12/play-video-30.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-29.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-28.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-27.html',
@@ -48,7 +47,8 @@ var dataUrl = [
 'https://videohdddfull.blogspot.com/2025/12/play-video-16.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-15.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-14.html',
-'https://videohdddfull.blogspot.com/2025/12/play-video-13.html'
+'https://videohdddfull.blogspot.com/2025/12/play-video-13.html',
+'https://videohdddfull.blogspot.com/2025/12/play-video-12.html'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
