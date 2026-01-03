@@ -3,8 +3,6 @@ var dataUrl = [
 'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-50.html',
 'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-49.html',
 'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-48.html',
-'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-47.html',
-'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-46.html',
 'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-45.html',
 'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-44.html',
 'https://chattgruppwhatsaapp.blogspot.com/2025/12/play-video-43.html',
