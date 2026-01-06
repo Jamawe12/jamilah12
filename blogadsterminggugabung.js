@@ -1,5 +1,9 @@
 var dataUrl = [
 
+'https://playvideodood.blogspot.com/2025/11/play-video-30.html',
+'https://playvideodood.blogspot.com/2025/11/play-video-29.html',
+'https://playvideodood.blogspot.com/2025/11/play-video-28.html',
+'https://playvideodood.blogspot.com/2025/11/play-video-27.html',
 'https://playvideodood.blogspot.com/2025/10/play-video-20.html',
 'https://playvideodood.blogspot.com/2025/10/play-video-19.html',
 'https://www.videyw.my.id/2025/09/play-video-20.html',
