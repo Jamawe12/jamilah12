@@ -52,7 +52,7 @@ var dataUrl = [
 'https://videohdddfull.blogspot.com/2025/12/play-video-14.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-12.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-11.html',
-'https://videohdddfull.blogspot.com/2025/12/play-video-10.html,
+'https://videohdddfull.blogspot.com/2025/12/play-video-10.html'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
