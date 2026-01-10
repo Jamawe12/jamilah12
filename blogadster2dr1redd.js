@@ -29,16 +29,15 @@ var dataUrl = [
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-19.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-18.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-17.html',
-'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-16.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-15.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-14.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-13.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-12.html',
 'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-11.html',
+'https://kumpulanvideoofull.blogspot.com/2025/12/play-video-10.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-29.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-28.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-26.html',
-'https://videohdddfull.blogspot.com/2025/12/play-video-25.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-24.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-23.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-22.html',
@@ -50,9 +49,10 @@ var dataUrl = [
 'https://videohdddfull.blogspot.com/2025/12/play-video-16.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-15.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-14.html',
-'https://videohdddfull.blogspot.com/2025/12/play-video-12.html',
 'https://videohdddfull.blogspot.com/2025/12/play-video-11.html',
-'https://videohdddfull.blogspot.com/2025/12/play-video-10.html'
+'https://videohdddfull.blogspot.com/2025/12/play-video-10.html',
+'https://videohdddfull.blogspot.com/2025/12/play-video-9.html',
+'https://videohdddfull.blogspot.com/2025/12/play-video-8.html'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
