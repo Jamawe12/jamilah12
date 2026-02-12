@@ -1,6 +1,5 @@
 var dataUrl = [
 
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-50.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-49.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-48.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-47.html',
@@ -10,12 +9,9 @@ var dataUrl = [
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-43.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-42.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-41.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-40.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-39.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-38.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-37.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-36.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-35.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-34.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-33.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-32.html',
@@ -31,7 +27,6 @@ var dataUrl = [
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-21.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-20.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-19.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-18.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-17.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-16.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-15.html',
