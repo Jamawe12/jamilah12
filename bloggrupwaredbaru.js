@@ -2,9 +2,7 @@ var dataUrl = [
 
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-49.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-48.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-47.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-46.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-45.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-44.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-43.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-42.html',
@@ -21,7 +19,6 @@ var dataUrl = [
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-27.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-26.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-25.html',
-'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-24.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-23.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-22.html',
 'https://chattgruppwhatsappp.blogspot.com/2026/01/grup-21.html',
