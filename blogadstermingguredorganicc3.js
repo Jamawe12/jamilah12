@@ -18,8 +18,6 @@ var dataUrl = [
 'https://myplayyvideoofull.blogspot.com/2026/01/play-video-5.html',
 'https://myplayyvideoofull.blogspot.com/2026/01/play-video-4.html',
 'https://myplayyvideoofull.blogspot.com/2026/01/play-video-3.html',
-'https://myplayyvideoofull.blogspot.com/2026/01/play-video-2.html',
-'https://myplayyvideoofull.blogspot.com/2026/01/play-video-1.html',
 'https://playyviideooo-n0b.blogspot.com/2026/03/video-20.html',
 'https://playyviideooo-n0b.blogspot.com/2026/03/video-19.html',
 'https://playyviideooo-n0b.blogspot.com/2026/03/video-18.html',
