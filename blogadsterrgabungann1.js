@@ -51,15 +51,8 @@ var dataUrl = [
 'https://playvideodood.blogspot.com/2025/11/play-video-27.html',
 'https://playvideodood.blogspot.com/2025/11/play-video-26.html',
 'https://playvideodood.blogspot.com/2025/10/play-video-25.html',
-'https://playvideodood.blogspot.com/2025/10/play-video-24.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-10.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-9.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-8.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-7.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-6.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-5.html',
-'https://playyfullvideoonow.blogspot.com/2026/03/play-video-4.html'
-
+'https://playvideodood.blogspot.com/2025/10/play-video-24.html'
+  
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
