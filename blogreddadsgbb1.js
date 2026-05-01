@@ -1,0 +1,31 @@
+var dataUrl = [
+
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-20.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-19.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-18.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-17.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-16.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-15.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-14.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-13.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-12.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-11.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-10.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-9.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-8.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-7.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-6.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-5.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-4.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-3.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-2.html',
+'https://playmyyvideooonow.blogspot.com/2026/04/play-video-1.html',
+'https://playvideodood.blogspot.com/2026/04/play-video-40.html',
+'https://playvideodood.blogspot.com/2026/04/play-video-39.html',
+'https://playvideodood.blogspot.com/2026/04/play-video-38.html',
+'https://playvideodood.blogspot.com/2026/04/play-video-37.html',
+'https://playvideodood.blogspot.com/2026/04/play-video-36.html'
+
+];
+var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
+window.location = randomItem;
