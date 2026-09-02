@@ -1,0 +1,15 @@
+var dataUrl = [
+
+'https://impassableoffend.com/cpvev1nj?key=d5c7343878687e73c517d3fc718bec2e',
+'https://impassableoffend.com/gq11ymi4h?key=3f3810d542418771f1ea15889273c385',
+'https://impassableoffend.com/gq11ymi4h?key=3f3810d542418771f1ea15889273c385',
+'https://impassableoffend.com/gq11ymi4h?key=3f3810d542418771f1ea15889273c385',
+'https://impassableoffend.com/gq11ymi4h?key=3f3810d542418771f1ea15889273c385',
+'https://impassableoffend.com/bhjdppxtc?key=f0738052b425c85d14a088b17a436022',
+'https://impassableoffend.com/bhjdppxtc?key=f0738052b425c85d14a088b17a436022',
+'https://impassableoffend.com/bhjdppxtc?key=f0738052b425c85d14a088b17a436022',
+'https://impassableoffend.com/bhjdppxtc?key=f0738052b425c85d14a088b17a436022'
+
+];
+var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
+window.location = randomItem;
